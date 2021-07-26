@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&theme=highcontrast">
 
 <h2><a href="https://github.com/MrXiaoM" target="_blank">MrXiaoM</a> / <a href="https://space.bilibili.com/330771760" target="_blank">懒怠的小猫</a></h2>
 

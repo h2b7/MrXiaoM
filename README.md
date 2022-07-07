@@ -1,5 +1,6 @@
+<a href="https://space.bilibili.com/330771760" target="_blank"><img width="100%" src="https://i0.hdslb.com/bfs/space/bcd55804646cd8eb9124d99edf286e513e883331.png@960w_150h_100q_1o.webp"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
-<h2><a href="https://github.com/MrXiaoM" target="_blank">MrXiaoM</a> / <a href="https://space.bilibili.com/330771760" target="_blank">懒怠的小猫</a></h2>
+<h2><a href="https://github.com/MrXiaoM" target="_blank">MrXiaoM</a></h2>
 
 I am a noob. I am still learning
 

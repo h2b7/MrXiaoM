@@ -10,7 +10,7 @@ I am a noob. I am still learning
 [![JavaScript](https://img.shields.io/badge/JavaScript-151623?style=for-the-badge&logo=javascript&logoColor=00FEC5)](https://www.javascript.com/) 
 [![Japanese](https://img.shields.io/badge/Japanese-151623?style=for-the-badge&logo=headspace&logoColor=CE3F53)](#)
 
-My major language is Java and C# now.... eh.. Chinese and English also.
+My major languages are Java and C# now.... eh.. Chinese and English also.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaom&layout=compact&title_color=00FFC6&text_color=F8F8FF&bg_color=30,10111E,282A35&hide_border=true"/>
 
@@ -29,3 +29,5 @@ Softwares I am in common use:
 [![Adobe Premiere Pro](https://img.shields.io/badge/Premiere-151623?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=00FEC5)](https://www.adobe.com/cn/products/premiere.html) 
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-151623?style=for-the-badge&logo=adobe%20photoshop&logoColor=00FEC5)](https://www.adobe.com/cn/products/photoshop.html) 
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
+
+[![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)

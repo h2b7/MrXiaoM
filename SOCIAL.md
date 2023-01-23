@@ -1,16 +1,16 @@
-# Social medias
+# Social media
 
-Here are all my social medias. :p
+Here are all my social media. :p
 
-Please support me from [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
+Please support me on [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
 
 ------------------------------
 
 <!-- 免去你社工我找我账号的麻烦 -->
 
-[![pixiv](https://img.shields.io/badge/pixiv-%E6%80%A0%E6%83%B0%E3%81%AA%E7%8C%ABOfficial-blue?style=social&logo=pixiv)](https://www.pixiv.net/users/49093740)
+[![pixiv](https://img.shields.io/badge/pixiv-人间工作-blue?style=social&logo=pixiv)](https://www.pixiv.net/users/49093740)
 
-[![bilibili](https://img.shields.io/badge/bilibili-懒怠的小猫-blue?style=social&logo=bilibili)](https://space.bilibili.com/330771760)
+[![bilibili](https://img.shields.io/badge/bilibili-人间工作-blue?style=social&logo=bilibili)](https://space.bilibili.com/330771760)
 
 [![csdn](https://img.shields.io/badge/CSDN-%E6%87%92%E6%80%A0%E7%9A%84%E5%B0%8F%E7%8C%ABOfficial-orange?style=social&logo=c)](https://blog.csdn.net/qq_35312082)
 
@@ -28,7 +28,7 @@ Please support me from [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
 
 [![youtube](https://img.shields.io/badge/Youtube-LittleCatX-blue?style=social&logo=youtube)](https://www.youtube.com/channel/UCmJOPgnAQtN3XWKRHo6U_mA)
 
-[![twitter](https://img.shields.io/badge/Twitter-%E6%87%92%E6%80%A0%E7%9A%84%E5%B0%8F%E7%8C%ABOfficial-blue?style=social&logo=twitter)](https://twitter.com/coolxiaom95)
+[![twitter](https://img.shields.io/badge/Twitter-LittleCatX%20@coolxiaom95-blue?style=social&logo=twitter)](https://twitter.com/coolxiaom95)
 
 [![discord](https://img.shields.io/badge/Discord-Van%236303-blue?style=social&logo=discord)](https://discord.gg/C3EC6xa)
 

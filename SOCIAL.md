@@ -30,6 +30,6 @@ Please support me on [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
 
 [![twitter](https://img.shields.io/badge/Twitter-LittleCatX%20@coolxiaom95-blue?style=social&logo=twitter)](https://twitter.com/coolxiaom95)
 
-[![discord](https://img.shields.io/badge/Discord-Van%236303-blue?style=social&logo=discord)](https://discord.gg/C3EC6xa)
+[![discord](https://img.shields.io/badge/Discord-LittleCatX%236303-blue?style=social&logo=discord)](https://discord.gg/C3EC6xa)
 
 [![Reddit](https://img.shields.io/badge/Reddit-Away--Jackfruit--439-blue?style=social&logo=reddit)](https://www.reddit.com/user/Away-Jackfruit-439)

@@ -31,3 +31,37 @@ Softwares I am in common use:
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
 [![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
+# My Projects about Minecraft
+* [DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
+* [Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
+* [PlaceholderAPI:Time-Expansion](https://github.com/MrXiaoM/Time-Expansion): A PAPI expansion for calculating time (or timestamp).
+* [PlaceholderAPI:LangUtils-Expansion](https://github.com/MrXiaoM/LangUtils-Expansion): A PAPI expansion for translating item name, entity name, enchantment name, etc.
+* [Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.
+* [RPGItems-reloaded](https://github.com/MrXiaoM/RPGItems-reloaded): A fork from NyaaCat Community. Add more event for *SoulBinding*-like function.
+* [CommandPrompter_Java8](https://github.com/MrXiaoM/CommandPrompter_Java8): A java 8 supported fork of CP.
+* [ResidenceLinker](https://github.com/MrXiaoM/ResidenceLinker): Link Residence between BungeeCord. (WIP)
+* [RaidLimiter](https://github.com/MrXiaoM/RaidLimiter): Limit times that player can raid every configurable duration.
+* [PixelmonStrengthen](https://github.com/MrXiaoM/PixelmonStrengthen): Sacrifice a lot of weak pokemon to build a stronger pokemon.
+* [RPGProject](https://github.com/MrXiaoM/RPGProject): Edit RPGItems item in chest GUI.
+* [DoomsdayVerify](https://github.com/MrXiaoM/DoomsdayVerify): Paid Minecraft Account verify.
+* [CatSense](https://github.com/MrXiaoM/CatSense): Functional plugin in CityZero. (零都市)
+* [RegularChest](https://github.com/MrXiaoM/RegularChest): Generate chest regularly in an area of a world with custom items.
+* [AnonymousHelper](https://github.com/MrXiaoM/AnonymousHelper): A backdoor mod I wrote in my early period.
+* [Fantasia](https://github.com/MrXiaoM/Fantasia): A fancy mod. Never update.
+* [LivingCityTools](https://github.com/MrXiaoM/LivingCityTools): My early period work. Never update just like Fantasia.
+* [XRay-Forge](https://github.com/MrXiaoM/XRay-Forge): AntiAntiXray+Xray-Mod. It bypassed AntiXray contained in spigot/paper. Does not works on Orebfuscator4.
+* [ChineseDomainSupport](https://github.com/MrXiaoM/ChineseDomainSupport): Add Punycode decodec on server-connecting.
+* [BUGBOOK](https://github.com/MrXiaoM/BUGBOOK): Generate random char to fill the book.
+* [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
+
+# My Projects about Mirai
+* [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
+* [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)
+* [LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).
+* [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
+* [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
+* [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
+* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): WIP.
+* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
+* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)

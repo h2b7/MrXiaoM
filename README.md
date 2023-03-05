@@ -33,6 +33,7 @@ Softwares I am in common use:
 [![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 # My Projects about Minecraft
+* [SyncMe](https://github.com/MrXiaoM/SyncMe): Sync player data like `inventory`, `ender chest`, `advancements` between Minecraft servers.
 * [DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
 * [Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
 * [PlaceholderAPI:Time-Expansion](https://github.com/MrXiaoM/Time-Expansion): A PAPI expansion for calculating time (or timestamp).

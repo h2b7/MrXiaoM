@@ -12,7 +12,7 @@ I am a noob. I am still learning
 
 My major languages are Java and C# now.... eh.. Chinese and English also.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrxiaom&layout=compact&title_color=00FFC6&text_color=F8F8FF&bg_color=30,10111E,282A35&hide_border=true"/>
+[<img align="right" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.net/a/mrxiaom)
 
 | Item | Infomation |
 | ---- | ---- |

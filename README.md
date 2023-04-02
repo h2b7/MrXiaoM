@@ -1,6 +1,6 @@
 <a href="https://space.bilibili.com/330771760" target="_blank"><img width="100%" src="https://i0.hdslb.com/bfs/space/12352019bc73e77949534268094d04c2875f3afb.png@2560w_400h_100q_1o.webp"/></a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
-<h2><a href="https://github.com/MrXiaoM" target="_blank">MrXiaoM</a></h2>
+<h2><a href="https://mrxiaom.top" target="_blank">MrXiaoM</a></h2>
 
 I am a noob. I am still learning
 
@@ -12,14 +12,14 @@ I am a noob. I am still learning
 
 My major languages are Java and C# now.... eh.. Chinese and English also.
 
-[<img align="right" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.net/a/mrxiaom)
+[<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.net/a/mrxiaom)
 
 | Item | Infomation |
 | ---- | ---- |
 | Minecraft | JE: `LittleCatX`, BE: `mrxiaom6575` |
 | QQ | [2431208142](http://wpa.qq.com/msgrd?v=3&uin=2431208142&site=qq&menu=yes) |
 | Email | [coolxiaom95@gmail.com](mailto:coolxiaom95@gmail.com) |
-| Social medias | [MrXiaoM/SOCIAL.md](https://github.com/MrXiaoM/MrXiaoM/blob/main/SOCIAL.md) |
+| Social media | [MrXiaoM/SOCIAL.md](https://github.com/MrXiaoM/MrXiaoM/blob/main/SOCIAL.md) |
 
 Softwares I am in common use:
 
@@ -30,7 +30,16 @@ Softwares I am in common use:
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-151623?style=for-the-badge&logo=adobe%20photoshop&logoColor=00FEC5)](https://www.adobe.com/cn/products/photoshop.html) 
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
-[![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+# My Projects about Mirai
+* [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
+* [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)
+* [LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).
+* [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
+* [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
+* [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
+* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): WIP.
+* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
+* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
 * [SyncMe](https://github.com/MrXiaoM/SyncMe): Sync player data like `inventory`, `ender chest`, `advancements` between Minecraft servers.
@@ -56,13 +65,4 @@ Softwares I am in common use:
 * [BUGBOOK](https://github.com/MrXiaoM/BUGBOOK): Generate random char to fill the book.
 * [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
 
-# My Projects about Mirai
-* [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
-* [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)
-* [LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).
-* [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
-* [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
-* [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
-* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): WIP.
-* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
-* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
+[![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)

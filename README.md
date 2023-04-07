@@ -42,6 +42,7 @@ Softwares I am in common use:
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
+* [CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.
 * [SyncMe](https://github.com/MrXiaoM/SyncMe): Sync player data like `inventory`, `ender chest`, `advancements` between Minecraft servers.
 * [DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
 * [Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.

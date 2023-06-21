@@ -31,6 +31,8 @@ Softwares I am in common use:
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
 # My Projects about Mirai
+* [KawaiiMiku](https://github.com/MrXiaoM/KawaiiMiku): TLV544 encryption provider on mirai-console.
+* [mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.
 * [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
 * [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)
 * [LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).
@@ -42,8 +44,9 @@ Softwares I am in common use:
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
+* [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
+* [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.
 * [CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.
-* [SyncMe](https://github.com/MrXiaoM/SyncMe): Sync player data like `inventory`, `ender chest`, `advancements` between Minecraft servers.
 * [DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
 * [Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
 * [PlaceholderAPI:Time-Expansion](https://github.com/MrXiaoM/Time-Expansion): A PAPI expansion for calculating time (or timestamp).

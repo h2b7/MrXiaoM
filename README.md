@@ -44,6 +44,7 @@ Softwares I am in common use:
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
+* [CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
 * [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
 * [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.
 * [CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.

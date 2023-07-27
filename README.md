@@ -31,6 +31,7 @@ Softwares I am in common use:
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
 # My Projects about Mirai
+* [qsign](https://github.com/MrXiaoM/qsign): unidbg-fetch-qsign, but mirai version.
 * [KawaiiMiku](https://github.com/MrXiaoM/KawaiiMiku): TLV544 encryption provider on mirai-console.
 * [mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.
 * [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
@@ -44,6 +45,7 @@ Softwares I am in common use:
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
+* [HMCL-PE-CN](https://github.com/MrXiaoM/HMCL-PE-CN): A fancy and simply-modified Minecraft Java Edition Launcher on Android.
 * [CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
 * [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
 * [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.

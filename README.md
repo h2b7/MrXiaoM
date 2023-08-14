@@ -31,6 +31,7 @@ Softwares I am in common use:
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
 # My Projects about Mirai
+* [SignManager](https://github.com/MrXiaoM/SignManager): unidbg-fetch-qsign installer and manager with Graphical UI.
 * [qsign](https://github.com/MrXiaoM/qsign): unidbg-fetch-qsign, but mirai version.
 * [KawaiiMiku](https://github.com/MrXiaoM/KawaiiMiku): TLV544 encryption provider on mirai-console.
 * [mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.

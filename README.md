@@ -46,6 +46,7 @@ Softwares I am in common use:
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
 # My Projects about Minecraft
+* [Iris](https://github.com/MrXiaoM/Iris): Effective world generator for Minecraft 1.16.5 and java 11.
 * [HMCL-PE-CN](https://github.com/MrXiaoM/HMCL-PE-CN): A fancy and simply-modified Minecraft Java Edition Launcher on Android.
 * [CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
 * [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.

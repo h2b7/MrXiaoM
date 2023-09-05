@@ -18,6 +18,8 @@ Please support me on [afdian@mrxiaom](https://afdian.net/@mrxiaom)!!
 
 [![mcbbs](https://img.shields.io/badge/MCBBS-MrXiaoM-blue?style=social)](https://www.mcbbs.net/home.php?mod=space&uid=2746803) [![minebbs](https://img.shields.io/badge/MineBBS-MrXiaoM-blue?style=social)](https://www.minebbs.com/members/mrxiaom.24586/) [![zuimc](https://img.shields.io/badge/ZUIMC-Xiao__M-blue?style=social)](http://www.zuimc.com/home.php?mod=space&uid=95606)
 
+[![MC百科](https://img.shields.io/badge/MC%E7%99%BE%E7%A7%91-%E4%BA%BA%E9%97%B4%E5%B7%A5%E4%BD%9C-blue?style=social)](https://center.mcmod.cn/52517)
+
 [![gitee](https://img.shields.io/badge/Gitee-MrXiaoM-blue?style=social&logo=gitee)](https://gitee.com/MrXiaoM)
 
 [![百度贴吧/知道/百科](https://img.shields.io/badge/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%2F%E7%9F%A5%E9%81%93%2F%E7%99%BE%E7%A7%91-BLUE__1207-blue?style=social&logo=baidu)](https://tieba.baidu.com/home/main?id=tb.1.3be0c7f7.uYzeLjOd5pSeEl9F9q1zWw)

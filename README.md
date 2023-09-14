@@ -31,6 +31,7 @@ Softwares I am in common use:
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
 
 # My Projects about Mirai
+* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): A deeply customizable daily sign plugin.
 * [SignManager](https://github.com/MrXiaoM/SignManager): unidbg-fetch-qsign installer and manager with Graphical UI.
 * [qsign](https://github.com/MrXiaoM/qsign): unidbg-fetch-qsign, but mirai version.
 * [KawaiiMiku](https://github.com/MrXiaoM/KawaiiMiku): TLV544 encryption provider on mirai-console.
@@ -41,7 +42,6 @@ Softwares I am in common use:
 * [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
 * [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
 * [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
-* [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): WIP.
 * [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 

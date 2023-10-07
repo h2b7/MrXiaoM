@@ -1,11 +1,13 @@
 name: Generate Github Contribution Grid Snake
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute every day 08:00
     - cron: "0 8 * * *"
   workflow_dispatch:
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -16,6 +18,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:

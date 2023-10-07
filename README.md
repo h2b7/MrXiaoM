@@ -74,4 +74,10 @@ Softwares I am in common use:
 * [BUGBOOK](https://github.com/MrXiaoM/BUGBOOK): Generate random char to fill the book.
 * [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
 
-[![Snake Contribution Animation](https://github.com/MrXiaoM/MrXiaoM/blob/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://s1.mrxiaom.top/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://s1.mrxiaom.top/github-snake.svg" />
+    <img alt="github-snake" src="https://s1.mrxiaom.top/github-snake.svg" />
+  </picture>
+</a>

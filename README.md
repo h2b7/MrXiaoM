@@ -32,9 +32,6 @@ Softwares I am in common use:
 
 # My Projects about Mirai
 * [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): A deeply customizable daily sign plugin.
-* [SignManager](https://github.com/MrXiaoM/SignManager): unidbg-fetch-qsign installer and manager with Graphical UI.
-* [qsign](https://github.com/MrXiaoM/qsign): unidbg-fetch-qsign, but mirai version.
-* [KawaiiMiku](https://github.com/MrXiaoM/KawaiiMiku): TLV544 encryption provider on mirai-console.
 * [mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.
 * [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
 * [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)

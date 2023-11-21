@@ -42,34 +42,50 @@ Softwares I am in common use:
 * [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
 * [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
 
-# My Projects about Minecraft
-* [Iris](https://github.com/MrXiaoM/Iris): Effective world generator for Minecraft 1.16.5 and java 11.
-* [HMCL-PE-CN](https://github.com/MrXiaoM/HMCL-PE-CN): A fancy and simply-modified Minecraft Java Edition Launcher on Android.
-* [CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
-* [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
-* [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.
-* [CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.
-* [DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
-* [Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
-* [PlaceholderAPI:Time-Expansion](https://github.com/MrXiaoM/Time-Expansion): A PAPI expansion for calculating time (or timestamp).
-* [PlaceholderAPI:LangUtils-Expansion](https://github.com/MrXiaoM/LangUtils-Expansion): A PAPI expansion for translating item name, entity name, enchantment name, etc.
-* [Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.
-* [RPGItems-reloaded](https://github.com/MrXiaoM/RPGItems-reloaded): A fork from NyaaCat Community. Add more event for *SoulBinding*-like function.
-* [CommandPrompter_Java8](https://github.com/MrXiaoM/CommandPrompter_Java8): A java 8 supported fork of CP.
-* [ResidenceLinker](https://github.com/MrXiaoM/ResidenceLinker): Link Residence between BungeeCord. (WIP)
+# My Plugins about Minecraft
+> Starts with `*` means forks.
+
+* *[MoreMobHeads](https://github.com/MrXiaoM/MoreMobHeads): A much more better mob beheading plugin. Rebuilt from the ashes of original author.
+* *[RPGItems-reloaded](https://github.com/MrXiaoM/RPGItems-reloaded): A fork from NyaaCat Community. Add more event for *SoulBinding*-like function. [ACTIVE 1.19/1.20]
+* *[Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.
+* *[StaticMap](https://github.com/MrXiaoM/StaticMap): (fork) Lock map color data into NBT. Map content would not be changed when the item pass to another server.
+* *[CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.
+* *[CrazyCratesLegacy](https://github.com/MrXiaoM/CrazyCratesLegacy): A CrazyCrates fork that support Paper 1.16.5, Java 8. More features available.
 * [RaidLimiter](https://github.com/MrXiaoM/RaidLimiter): Limit times that player can raid every configurable duration.
-* [PixelmonStrengthen](https://github.com/MrXiaoM/PixelmonStrengthen): Sacrifice a lot of weak pokemon to build a stronger pokemon.
+* *[DeathMessages](https://github.com/MrXiaoM/DeathMessages): A java 8 supported fork of DeathMessages plugin. Mouse hover and click support.
+* *[Guilds](https://github.com/MrXiaoM/Guilds): A fork for my server.
 * [RPGProject](https://github.com/MrXiaoM/RPGProject): Edit RPGItems item in chest GUI.
+* [PlaceholderAPI:TimeOperate-Expansion](https://github.com/MrXiaoM/TimeOperate-Expansion): A PAPI expansion for calculating time (or timestamp).
+* [PlaceholderAPI:LangUtils-Expansion](https://github.com/MrXiaoM/LangUtils-Expansion): A PAPI expansion for translating item name, entity name, enchantment name, etc.
+* ~~*[CommandPrompter_Java8](https://github.com/MrXiaoM/CommandPrompter_Java8): A java 8 supported fork of CP.~~ [DEPRECATED]
+* ~~*[Iris](https://github.com/MrXiaoM/Iris): Effective world generator for Minecraft 1.16.5 and java 11.~~ [DEPRECATED]
+* [ResidenceLinker](https://github.com/MrXiaoM/ResidenceLinker): Link Residence between BungeeCord. (WIP)
+* [PixelmonStrengthen](https://github.com/MrXiaoM/PixelmonStrengthen): Sacrifice a lot of weak pokemon to build a stronger pokemon.
+* [DoomsdayEssentials](https://github.com/MrXiaoM/DoomsdayEssentials): Outdate plugin in my old server.
 * [DoomsdayVerify](https://github.com/MrXiaoM/DoomsdayVerify): Paid Minecraft Account verify.
 * [CatSense](https://github.com/MrXiaoM/CatSense): Functional plugin in CityZero. (零都市)
 * [RegularChest](https://github.com/MrXiaoM/RegularChest): Generate chest regularly in an area of a world with custom items.
+
+# My Mods about Minecraft
+> Starts with `*` means forks.
+
+* [ForceAccessServer](https://github.com/MrXiaoM/ForceAccessServer): Force access MultiplayerScreen and ChatScreen in offline mode.
 * [AnonymousHelper](https://github.com/MrXiaoM/AnonymousHelper): A backdoor mod I wrote in my early period.
 * [Fantasia](https://github.com/MrXiaoM/Fantasia): A fancy mod. Never update.
 * [LivingCityTools](https://github.com/MrXiaoM/LivingCityTools): My early period work. Never update just like Fantasia.
-* [XRay-Forge](https://github.com/MrXiaoM/XRay-Forge): AntiAntiXray+Xray-Mod. It bypassed AntiXray contained in spigot/paper. Does not works on Orebfuscator4.
+* *[XRay-Forge](https://github.com/MrXiaoM/XRay-Forge): AntiAntiXray+Xray-Mod. It bypassed AntiXray contained in spigot/paper. Does not works on Orebfuscator4.
 * [ChineseDomainSupport](https://github.com/MrXiaoM/ChineseDomainSupport): Add Punycode decodec on server-connecting.
 * [BUGBOOK](https://github.com/MrXiaoM/BUGBOOK): Generate random char to fill the book.
+
+# My Other Project about Minecraft
+> Starts with `*` means forks.
+
+* *[HMCL-PE-CN](https://github.com/MrXiaoM/HMCL-PE-CN): A fancy and simply-modified Minecraft Java Edition Launcher on Android.
 * [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
+
+# Other things
+* [Eden](https://github.com/MrXiaoM/Eden): My study about decompile apk on old computers.
+* [MikutapEditor](https://github.com/MrXiaoM/MikutapEditor): Unpack Mikutap sounds easily.
 
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
   <picture>

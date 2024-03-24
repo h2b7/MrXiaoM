@@ -6,7 +6,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 <h2><a href="https://mrxiaom.top" target="_blank">MrXiaoM</a></h2>
 
-I am a noob. I am still learning
+I am a noob, and also a 19-year-old college student. I am still learning
 
 [![kotlin](https://img.shields.io/badge/kotlin-151623?style=for-the-badge&logo=kotlin&logoColor=00FEC5)](https://kotlinlang.org/) 
 [![java](https://img.shields.io/badge/java-151623?style=for-the-badge&logo=openjdk&logoColor=00FEC5)](https://openjdk.org/) 
@@ -50,6 +50,7 @@ Softwares I am in common use:
 # My Plugins about Minecraft
 > Starts with `*` means forks.
 
+* [ShadowBook](https://github.com/MrXiaoM/ShadowBook): (Alpha Testing) Move your writtable/written book contents into database to disable item duplicating via books.
 * *[MoreMobHeads](https://github.com/MrXiaoM/MoreMobHeads): A much more better mob beheading plugin. Rebuilt from the ashes of original author.
 * *[RPGItems-reloaded](https://github.com/MrXiaoM/RPGItems-reloaded): A fork from NyaaCat Community. Add more event for *SoulBinding*-like function. [ACTIVE 1.19/1.20]
 * *[Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.

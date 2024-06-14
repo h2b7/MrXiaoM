@@ -37,15 +37,15 @@ Softwares I am in common use:
 # My Projects about Mirai
 * [Overflow](https://github.com/MrXiaoM/Overflow): A mirai port of Onebot implementation.
 * [MiraiDailySign](https://github.com/MrXiaoM/MiraiDailySign): A deeply customizable daily sign plugin.
-* [mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.
-* [Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.
-* [GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)
-* [LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).
+* ~~[mirai-console-dev-qrlogin](https://github.com/MrXiaoM/mirai-console-dev-qrlogin): QRCode login commands on mirai-console.~~ [DEPRECATED]
+* ~~[Aoki](https://github.com/MrXiaoM/Aoki): Login mirai via your Android phone.~~ [DEPRECATED]
+* ~~[GraphicalMirai](https://github.com/MrXiaoM/GraphicalMirai): A Mirai Console Downloader and Launcher, Plugin Center and so on! (WIP)~~ [DEPRECATED]
+* ~~[LoliYouWant](https://github.com/MrXiaoM/LoliYouWant): Fetch artworks from [Lolibooru](https://lolibooru.moe).~~ [DEPRECATED]
 * [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
 * [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
 * [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
-* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.
-* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)
+~~* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.~~ [DEPRECATED]
+~~* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
 
 # My Plugins about Minecraft
 > Starts with `*` means forks.

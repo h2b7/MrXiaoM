@@ -45,7 +45,7 @@ Softwares I am in common use:
 * [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
 * [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
 * ~~[Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.~~ [DEPRECATED]
-* ~~[MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
+* ~~[MiraiUtils](https://github.com/MrXiaoM/MiraiUtils): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
 
 # My Plugins about Minecraft
 > Starts with `*` means forks.

@@ -44,8 +44,8 @@ Softwares I am in common use:
 * [WifeYouWant](https://github.com/MrXiaoM/WifeYouWant): Choose a random member from a group to be sender's wife.
 * [SpecialTitleYouWant](https://github.com/MrXiaoM/SpecialTitleYouWant): Set sender's special title (also "头衔" in Chinese) via command.
 * [CommandYouWant](https://github.com/MrXiaoM/CommandYouWant): Redirect your custom command to specific commands.
-~~* [Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.~~ [DEPRECATED]
-~~* [MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
+* ~~[Natsuko](https://github.com/MrXiaoM/Natsuko): My early period work.~~ [DEPRECATED]
+* ~~[MiraiUtil](https://github.com/MrXiaoM/McbbsUtil): Simple command manager. (Not Recommend to Use)~~ [DEPRECATED]
 
 # My Plugins about Minecraft
 > Starts with `*` means forks.

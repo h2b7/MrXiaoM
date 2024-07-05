@@ -54,7 +54,7 @@ Softwares I am in common use:
 * [MythicMobsProtection](https://github.com/MrXiaoM/MythicMobsProtection): Protect players and entities from illegal damage of Mobs and Skills.
 * [ShadowBook](https://github.com/MrXiaoM/ShadowBook): (Alpha Testing) Move your writtable/written book contents into database to disable item duplicating via books.
 * *[MoreMobHeads](https://github.com/MrXiaoM/MoreMobHeads): A much more better mob beheading plugin. Rebuilt from the ashes of original author.
-* *[RPGItems-reloaded](https://github.com/MrXiaoM/RPGItems-reloaded): A fork from NyaaCat Community. Add more event for *SoulBinding*-like function. [ACTIVE 1.17-1.20.4]
+* *[RPGItems-reborn](https://github.com/MrXiaoM/RPGItems-reborn): A brand new hard-fork from [NyaaCat Community](https://github.com/NyaaCat/). Add more wonderful features! **[ACTIVE 1.8-1.21]**
 * *[Billboards](https://github.com/MrXiaoM/Billboards): A fork from blablubbabc. Make it more functionable.
 * *[StaticMap](https://github.com/MrXiaoM/StaticMap): (fork) Lock map color data into NBT. Map content would not be changed when the item pass to another server.
 * *[CraftItem](https://github.com/MrXiaoM/CraftItem): Item crafting with many times of forging.

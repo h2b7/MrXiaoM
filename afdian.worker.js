@@ -55,9 +55,16 @@ async function afdianRequest(req, url, params) {
  */
 async function handleRequest(req, origin, headers, pathname, searchParams) {
   if (!pathname.startsWith("/")) pathname = "/" + pathname;
+  if (pathname.endsWith("/")) pathname = pathname.substring(0, pathname.length - 1);
   if (pathname == "/afdian/ping") {
     return await afdianRequest(req, "https://afdian.net/api/open/ping", {
       a: 333
+    });
+  }
+  if (pathname.startsWith("/afdian/sponsors/") && pathname.length > 17) {
+    var userId = pathname.substring(17);
+    return await afdianRequest(req, "https://afdian.com/api/open/query-sponsor", {
+      user_id: userId
     });
   }
   if (pathname == "/afdian/sponsors") {

@@ -50,6 +50,7 @@ Softwares I am in common use:
 # My Plugins about Minecraft
 > Starts with `*` means forks.
 
+* [HideMyArmors](https://github.com/MrXiaoM/HideMyArmors): Hide your armors to other players.
 * [SweetMail](https://github.com/MrXiaoM/SweetMail): Send mail to players with item attachments and so on.
 * [MythicMobsProtection](https://github.com/MrXiaoM/MythicMobsProtection): Protect players and entities from illegal damage of Mobs and Skills.
 * [ShadowBook](https://github.com/MrXiaoM/ShadowBook): (Alpha Testing) Move your writtable/written book contents into database to disable item duplicating via books.

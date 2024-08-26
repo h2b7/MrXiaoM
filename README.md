@@ -16,7 +16,7 @@ I am a noob, and also a 19-year-old college student. I am still learning
 
 My major languages are Java and C# now.... eh.. Chinese and English also.
 
-[<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.net/a/mrxiaom)
+[<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
 
 | Item | Infomation |
 | ---- | ---- |

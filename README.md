@@ -14,6 +14,9 @@ I am a noob, and also a 19-year-old college student. I am still learning
 [![JavaScript](https://img.shields.io/badge/JavaScript-151623?style=for-the-badge&logo=javascript&logoColor=00FEC5)](https://www.javascript.com/) 
 [![Japanese](https://img.shields.io/badge/Japanese-151623?style=for-the-badge&logo=headspace&logoColor=CE3F53)](#)
 
+I have a lot of amateur interests. I am also a video uploader, VOCALOID-like producer, illustrator, and so on.  
+As a coder, I also know a few about C(Keil μvision)/C++/HTML/CSS/JavaScript/Shell. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
+
 My major languages are Java and C# now.... eh.. Chinese and English also.
 
 [<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
@@ -33,6 +36,8 @@ Softwares I am in common use:
 [![Adobe Premiere Pro](https://img.shields.io/badge/Premiere-151623?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=00FEC5)](https://www.adobe.com/cn/products/premiere.html) 
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-151623?style=for-the-badge&logo=adobe%20photoshop&logoColor=00FEC5)](https://www.adobe.com/cn/products/photoshop.html) 
 [![Microsoft Edge](https://img.shields.io/badge/Edge-151623?style=for-the-badge&logo=microsoft%20edge&logoColor=00FEC5)](https://www.microsoft.com/zh-cn/edge)
+
+Please check [my website](https://www.mrxiaom.top/#env) for my full developing environments.
 
 # My Projects about Mirai
 * [Overflow](https://github.com/MrXiaoM/Overflow): A mirai port of Onebot implementation.
@@ -93,8 +98,8 @@ Softwares I am in common use:
 * [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
 
 # Other things
-* [Eden](https://github.com/MrXiaoM/Eden): My study about decompile apk on old computers.
-* [MikutapEditor](https://github.com/MrXiaoM/MikutapEditor): Unpack Mikutap sounds easily.
+* [Eden](https://github.com/MrXiaoM/Eden): My study about decompile large apk on old computers.
+* [MikutapEditor](https://github.com/MrXiaoM/MikutapEditor): Unpack Mikutap easily.
 
 <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
   <picture>

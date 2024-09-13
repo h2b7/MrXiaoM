@@ -15,7 +15,7 @@ I am a noob, and also a 19-year-old college student. I am still learning
 [![Japanese](https://img.shields.io/badge/Japanese-151623?style=for-the-badge&logo=headspace&logoColor=CE3F53)](#)
 
 I have a lot of amateur interests. I am also a video uploader, VOCALOID-like producer, illustrator, and so on.  
-As a coder, I also know a few about C(Keil μvision)/C++/HTML/CSS/JavaScript/Shell. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
+As a coder, I also know a few about C(Keil μvision)/C++/HTML/CSS/JavaScript/Shell/Python. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
 
 My major languages are Java and C# now.... eh.. Chinese and English also.
 

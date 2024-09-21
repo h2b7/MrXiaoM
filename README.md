@@ -55,6 +55,7 @@ Please check [my website](https://www.mrxiaom.top/#env) for my full developing e
 # My Plugins about Minecraft
 > Starts with `*` means forks.
 
++ [WelcomeActions](https://github.com/MrXiaoM/WelcomeActions): Execute custom commands when player welcome newbies.
 * [HideMyArmors](https://github.com/MrXiaoM/HideMyArmors): Hide your armors to other players.
 * [SweetMail](https://github.com/MrXiaoM/SweetMail): Send mail to players with item attachments and so on.
 * [MythicMobsProtection](https://github.com/MrXiaoM/MythicMobsProtection): Protect players and entities from illegal damage of Mobs and Skills.

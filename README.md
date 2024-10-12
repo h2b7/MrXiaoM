@@ -100,6 +100,7 @@ Please check [my website](https://www.mrxiaom.top/#env) for my full developing e
 * [McbbsUtil](https://github.com/MrXiaoM/McbbsUtil): Get rating (also "评分" in Chinese) on Discuz! like forum.
 
 # Other things
+* [uta-tap](http://github.com/MrXiaoM/uta-tap): Mikutap fork. Let's sing together!
 * [Eden](https://github.com/MrXiaoM/Eden): My study about decompile large apk on old computers.
 * [MikutapEditor](https://github.com/MrXiaoM/MikutapEditor): Unpack Mikutap easily.
 

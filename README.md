@@ -3,10 +3,11 @@
 ------
 
 <a href="https://space.bilibili.com/330771760" target="_blank"><img width="100%" src="https://i0.hdslb.com/bfs/space/12352019bc73e77949534268094d04c2875f3afb.png@2560w_400h_100q_1o.webp"/></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 <h2><a href="https://mrxiaom.top" target="_blank">MrXiaoM</a></h2>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrxiaom&show_icons=true&title_color=00FFC6&text_color=F8F8FF&icon_color=fff000&bg_color=30,10111E,282A35&hide_border=true"/>
 
-I am a noob, and also a 19-year-old college student. I am still learning
+I am a noob, and also a 19-y/o college student.<br />
+I am still learning...
 
 [![kotlin](https://img.shields.io/badge/kotlin-151623?style=for-the-badge&logo=kotlin&logoColor=00FEC5)](https://kotlinlang.org/) 
 [![java](https://img.shields.io/badge/java-151623?style=for-the-badge&logo=openjdk&logoColor=00FEC5)](https://openjdk.org/) 
@@ -14,12 +15,16 @@ I am a noob, and also a 19-year-old college student. I am still learning
 [![JavaScript](https://img.shields.io/badge/JavaScript-151623?style=for-the-badge&logo=javascript&logoColor=00FEC5)](https://www.javascript.com/) 
 [![Japanese](https://img.shields.io/badge/Japanese-151623?style=for-the-badge&logo=headspace&logoColor=CE3F53)](#)
 
-I have a lot of amateur interests. I am also a video uploader, VOCALOID-like producer, illustrator, and so on.  
+I have a lot of amateur interests.<br />
+I am also a video uploader:
+ - VOCALOID-like producer
+ - illustrator, and so on...<br />
+
 As a coder, I also know a few about C(Keil μvision)/C++/HTML/CSS/JavaScript/Shell/Python. My second language is only Kotlin and `if (it !is necessary) I.wouldUse().not()`.
 
-My major languages are Java and C# now.... eh.. Chinese and English also.
-
 [<img align="right" width="42%" src="https://github.com/MrXiaoM/MrXiaoM/blob/main/afdian.jpg" alt="前往 爱发电 支持我"/>](https://afdian.com/a/mrxiaom)
+
+My major languages are Java and C# now....<br />eh.. Chinese and English also.
 
 | Item | Infomation |
 | ---- | ---- |
